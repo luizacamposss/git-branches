@@ -10,3 +10,4 @@ print("Adicionando funcionalidade: função inss.")
 
 def inss():
     pass #serve para pular/considerar o codigo feito
+
